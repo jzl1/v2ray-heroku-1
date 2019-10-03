@@ -2,7 +2,7 @@
 This image is based on Alpine, making it as light as possible.
 
 ## One-Click button
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/unl89/v2ray-heroku-1)
 
 ## Note
 This trick heavily relies on the domain of `herokuapp.com`. \
