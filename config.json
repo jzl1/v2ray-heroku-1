@@ -12,14 +12,14 @@
         {
           "id": "UUID",
           "level": 1,
-          "alterId": 64
+          "alterId": 1
         }
       ]
     },
     "streamSettings": {
       "network": "ws",
       "wsSettings": {
-        "path": "/ray"
+        "path": "/websocket"
       }
     }
   },
